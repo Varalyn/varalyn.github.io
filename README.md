@@ -16,7 +16,7 @@
 
 <div class="pageContainer">
   <div class="imageContainer"> 
-    <img src="images/varalyn.jpeg" alt="Varalyn at the beach" /> 
+    <img src="images/varalyn.jpeg" alt="Varalyn at the beach"/> 
   </div>
   <div class="textContainer">
     <em><h1>Your Number One Software Engineer</h1></em>
