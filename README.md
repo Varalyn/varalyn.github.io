@@ -22,8 +22,19 @@
     </div>
     
     <h2>My How it all Started </h2>
-      <p>My name is Varalyn. I am from Ghana, West Africa but currently reside in North Carolina in the United States. I love to cook. eat, go out and have some fun from time to time</p>
-      <p> I started off as a nurse because of my love for people but then covid happened and that made me change my mind. I decided to pursue something that would nurture my creativity side and i believe I made the right choice of deciding to be a software engineer. I love it so far!</p>
+      <p>My name is Varalyn. I am from Ghana, West Africa but currently reside in North Carolina in the United States.</p>
+    
+      <p>I am a former Certified Nurse Aide who is now interested in becoming the best software engineer ever! I decided to pursue something that would nurture my creativity side and I believe I made the right choice by choosing this path to be a software engineer. I love it so far!</p>
+        
+    <h3>Things I like to do when I am not working or studying:</h3>
+        <ul>
+          <li> Cooking </li>
+          <li> Dancing </li>
+          <li> Occasional gaming </li>
+          <li> Let's not forget eating! </li>
+    </ul>
+        
+  
       
   </div>
 </div>
