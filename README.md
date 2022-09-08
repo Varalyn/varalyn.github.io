@@ -26,7 +26,7 @@
     
       <p>I am a former Certified Nurse Aide who is now interested in becoming the best software engineer ever! I decided to pursue something that would nurture my creativity side and I believe I made the right choice by choosing this path to be a software engineer. I love it so far!</p>
         
-    <h3>Things I like to do when I am not working or studying:</h3>
+    <h3>Things I like to do at my leisure time:</h3>
         <ul>
           <li> Cooking </li>
           <li> Dancing </li>
