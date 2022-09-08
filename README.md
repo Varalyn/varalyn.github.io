@@ -2,7 +2,6 @@
 <html>
 <head>
 
-<title>Who is Varalyn?</title>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" />
 
