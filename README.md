@@ -36,7 +36,7 @@
           <li> Occasional gaming </li>
           <li> Let's not forget eating! </li>
     </ul>
-        <p> Would you like to know more about me? here's my  <a href="#Contact">Contact</a></p>
+        <p> Would you like to know more about me? here's my  <a href="#Contact Info.">Contact</a></p>
   
       
   </div>
