@@ -23,6 +23,7 @@
     </div>
     </section>
   </header>
+    <section>
     <h2>My How it all Started </h2>
       <p>My name is Varalyn. I am from Ghana, West Africa but currently reside in North Carolina in the United States.</p>
     
@@ -36,6 +37,8 @@
           <li> Let's not forget eating! </li>
     </ul>
         <p> Would you like to know more about me? here's my  <a href="#Contact Info.">Contact</a></p>
+    </section>
+    </article>
   
       
   </div>
