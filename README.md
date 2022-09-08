@@ -57,6 +57,7 @@
 <li><a href= "www.linkedin.com/in/varalyn-yeboah-ba1b12105"> LinkedIn</a></li>
 </ol>
 </main>
+
 <footer class="dark-background">
 		<div class="wrapper">
 			<p class= "text-centered">Copyright</p>
@@ -65,8 +66,7 @@
    </footer>
 
 
-<script src="script.js">
-	</script>
+<script src="script.js"></script>
 
 
 </body>
