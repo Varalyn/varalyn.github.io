@@ -47,7 +47,7 @@
 <b><h2>What I am doing Now</b></h4>
 <p> Growing up, I always knew I wanted to be more. I knew I had a lot to offer to the world. I am a former Certified Nurse Aide who is now interested in becoming the best software engineer ever! I decided to pursue something that would improve the creativity side of me and I believe I made the right choice by choosing this path to be a software engineer. I love it so far!</p>
 <p> Currently a Software Engineer Student at <a href="thinkful.com">THINKFUL</a> looking to graduate in the next few months.</p>
-<p> If you are looking for a self-motivated, goal driven software developer, then look no further. I will be excited to grow with and build softwares with an amazing team.</p>
+<p> If you are looking for a self-motivated, goal-driven software developer, then look no further. I will be excited to grow with and build softwares with an amazing team.</p>
 <hr>
 <b><h2>Contact Varalyn</b></h2>
 <p> I would love to hear from you. Please feel free to contact me via any of these means:
