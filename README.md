@@ -11,7 +11,7 @@
 
 </head>
 
-<body>↩
+<body>
 
 <!-- WEB PAGE CONTENT HERE -->
 <header>
