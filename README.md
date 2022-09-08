@@ -9,8 +9,8 @@
 </head>
 <body>
 <!-- WEB PAGE CONTENT HERE -->
-<header>
 <main>
+<header>
 <article>
   <section>
 <div class="pageContainer"> 
@@ -24,7 +24,7 @@
   </header>
   <article>
     <section>
-    <b><h2> Brief Introduction </b></h2>
+    <h2><b> Brief Introduction </b></h2>
       <p>My name is Varalyn. I am from Ghana, West Africa but currently reside in North Carolina in the United States.</p>
       <p></p>    
       <hr> 
@@ -57,7 +57,7 @@
 </ol>
 </main>
 <footer>
-<p> ©  Who is Varalyn </p>
+<p>©Who is Varalyn</p>
 </body>
 </html>
 
