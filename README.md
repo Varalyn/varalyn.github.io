@@ -19,7 +19,7 @@
   <div class="textContainer">
     <h1><strong>Who is Varalyn?</strong></h1>
       <div class="imageContainer"> 
-    <img src="varalyn.jpeg" width= "300" alt="Varalyn at the beach"/>
+    <img src="Varalyn.jpeg" width= "300" alt="Varalyn at the beach"/>
     </div>
     </div>
     </section>
