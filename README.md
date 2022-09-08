@@ -55,8 +55,6 @@
 <li><a href= "https://github.com/Varalyn">GitHub</a></li>
 <li><a href= "www.linkedin.com/in/varalyn-yeboah-ba1b12105"> LinkedIn</a></li>
 </ol>
-  <img src="![image](https://user-images.githubusercontent.com/112921830/189032017-afa8db24-4cd0-4383-b604-2cb24c4ee4a7.png)" alt="north carolina"/>
-
 </main>
 <footer>
 <p> ©  Who is Varalyn </p>
