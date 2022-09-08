@@ -18,7 +18,7 @@
   <div class="textContainer">
     <em><h1>Your Number One Software Engineer</h1></em>
       <div class="imageContainer"> 
-    <img src="varalyn.jpeg" width= "300" alt="Varalyn at the beach"/>
+    <img src="varalyn.jpeg" width= "200" alt="Varalyn at the beach"/>
     </div>
     
     <h2>My How it all Started </h2>
