@@ -54,7 +54,7 @@
 <p> I would love to hear from you. Please feel free to contact me via any of these means:
 <ol>
 <li><a href= "https://github.com/Varalyn">GitHub</a></li>
-<li><a href= "www.linkedin.com/in/varalyn-yeboah-ba1b12105"> LinkedIn</a></li>
+<li><a href= "https://www.linkedin.com/in/varalyn-yeboah-ba1b12105/"> LinkedIn</a></li>
 </ol>
 </main>
 
