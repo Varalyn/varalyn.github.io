@@ -13,14 +13,17 @@
 <body>
 
 <!-- WEB PAGE CONTENT HERE -->
-
+<header>
+<article>
+  <section>
 <div class="pageContainer"> 
   <div class="textContainer">
     <em><h1>Your Number One Software Engineer</h1></em>
       <div class="imageContainer"> 
     <img src="varalyn.jpeg" width= "200" alt="Varalyn at the beach"/>
     </div>
-    
+    </section>
+  </header>
     <h2>My How it all Started </h2>
       <p>My name is Varalyn. I am from Ghana, West Africa but currently reside in North Carolina in the United States.</p>
     
